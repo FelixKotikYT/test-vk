@@ -1,2 +1,1 @@
-print('54')
-input()
+Yeap.
